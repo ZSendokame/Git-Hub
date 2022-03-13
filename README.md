@@ -6,13 +6,13 @@ It will automatically update every ten minutes.
 
 # How-to Install
 ```sh
-git clone https://github.com/zsendokame/twitch-tab && pip -r install requirements.txt
+git clone https://github.com/zsendokame/Git-Tab && pip -r install requirements.txt
 ```
-With that command executed, your ready to use Twitch-Tab.
+With that command executed, your ready to use Git-Tab.
 
 # How-to Use
 ```sh
-cd twitch-tab # If your not in the repository folder, run this.
+cd Git-Tab # If your not in the repository folder, run this.
 python api.py # Finally, the API it's running on http://localhost:5000/.
 ```
 
