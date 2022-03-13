@@ -6,7 +6,7 @@ It will automatically update every ten minutes.
 
 # How-to Install
 ```sh
-git clone https://github.com/zsendokame/Git-Tab && pip -r install requirements.txt
+git clone https://github.com/zsendokame/Git-Tab && cd Git-Tab && pip -r install requirements.txt
 ```
 With that command executed, your ready to use Git-Tab.
 
