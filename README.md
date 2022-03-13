@@ -18,3 +18,5 @@ python api.py # Finally, the API it's running on http://localhost:5000/.
 
 To get the statistics of a user, add the query "username" with the user name as it's value.
 It will return an HTML who can render on Web, OBS and more.
+
+URL Example: https://localhost:5000/?username=ZSendokame
