@@ -16,7 +16,7 @@ cd Git-Tab # If your not in the repository folder, run this.
 python api.py # Finally, the API it's running on http://localhost:5000/.
 ```
 URL Examples:<br>
-Account URL: http://localhost:5000/account?username=ZSendokame
+Account URL: http://localhost:5000/account?username=ZSendokame<br>
 Repository URL: http://localhost:5000/repository?username=ZSendokame&name=Git-Tab
 
 ### How-to Add Twitch-Tab to OBS
