@@ -1,0 +1,12 @@
+.github-information {
+    background-color: #EED6D3;
+    border-radius: 10px;
+    padding: 10px;
+    height: 210px;
+    width: 830px;
+}
+
+h1 {
+    color: #A49393;
+    font-family: "Fira Code";
+}
