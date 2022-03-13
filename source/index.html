@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Meta-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Import-->
+    <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+    <script src="{{url_for('static', filename='script.js')}}"></script>
+</head>
+<body>
+    <div class="github-information">
+        <h1>Username: {{ username }}</h1>
+        <h1>Biography: {{ biography }}</h1>
+        <h1>Followers: {{ followerCount }}</h1>
+    </div>
+</body>
+</html>
