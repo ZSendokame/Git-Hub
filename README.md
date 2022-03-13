@@ -1,5 +1,5 @@
 # Twitch Tab
-Show github statistics on web, made for Twitch overlay!.
+Show github statistics on web, made for Twitch overlay!
 
 # How-to Install
 ```sh
