@@ -2,7 +2,7 @@
 Show github statistics on web, made for Twitch overlay!<br>
 It will automatically update every ten minutes.
 
-![image](https://user-images.githubusercontent.com/70088953/158067707-4eb38222-564e-4188-a403-66ff1141293d.png)
+![image](https://user-images.githubusercontent.com/70088953/158074336-c8cd3ea5-1297-48da-93e0-b148e4097c92.png)
 
 # How-to Install
 ```sh
