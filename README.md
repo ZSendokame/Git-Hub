@@ -24,4 +24,4 @@ URL Example: http://localhost:5000/?username=ZSendokame
 ### How-to Add Twitch-Tab to OBS
 1.- Right click on Sources tab.<br>
 2.- Go to Add and Browser.<br>
-3.- Create it and change URL text to "http://localhost:5000/?username=<Your GitHub Username\>."
+3.- Create it and change URL text to "http://localhost:5000/?username=<Your GitHub Username\>".
