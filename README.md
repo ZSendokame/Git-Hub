@@ -1,5 +1,6 @@
 # Twitch Tab
 Show github statistics on web, made for Twitch overlay!
+It will automatically update every ten minutes.
 
 # How-to Install
 ```sh
