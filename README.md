@@ -2,6 +2,8 @@
 Show github statistics on web, made for Twitch overlay!<br>
 It will automatically update every ten minutes.
 
+![image](https://user-images.githubusercontent.com/70088953/158067707-4eb38222-564e-4188-a403-66ff1141293d.png)
+
 # How-to Install
 ```sh
 git clone https://github.com/zsendokame/twitch-tab && pip -r install requirements.txt
