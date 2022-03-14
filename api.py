@@ -21,7 +21,6 @@ def repository():
 
     return render_template(
         'repository.html',
-        repositoryLink=get.json()['html_url'],
         repositoryName=get.json()['name'],
         starCount=get.json()['stargazers_count'],
         forkCount=get.json()['forks_count'],
