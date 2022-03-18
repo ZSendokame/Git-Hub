@@ -19,7 +19,7 @@ URL Examples:<br>
 Account URL: http://localhost:5000/account?username=ZSendokame<br>
 Repository URL: http://localhost:5000/repository?username=ZSendokame&name=Git-Tab
 
-### How-to Add Twitch-Tab to OBS
+### How-to Add Git-Tab to OBS
 1.- Right click on Sources tab.<br>
 2.- Go to Add and Browser.<br>
 3.- Create it and change URL text to the type you need.
