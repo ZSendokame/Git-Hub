@@ -2,7 +2,7 @@
 Show github statistics on web, made for Twitch overlay!<br>
 It will automatically update every ten minutes and it shows the information of users and repositories.
 
-![image](https://user-images.githubusercontent.com/70088953/158501411-5ca9bb84-0e6c-4a7c-9e8d-f6b429e93ac4.png)
+![image](https://user-images.githubusercontent.com/70088953/158917446-d9eff0d2-f6f9-49fa-9441-facc2955ea48.png)
 
 # How-to Install
 ```sh
