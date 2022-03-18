@@ -12,7 +12,8 @@ def account():
         username=get.json()['name'],
         biography=get.json()['bio'],
         followerCount=get.json()['followers'],
-        repositoryCount=get.json()['public_repos']
+        repositoryCount=get.json()['public_repos'],
+        accountPhoto=get.json()['avatar_url']
     )
 
 @app.get('/repository')
